@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Projenin Amacı ve Özellikleri
+## Projenin Amacı ve Özellikleri
 
 Bu sistem, kullanıcıların belirli tarihler için çalışma masası rezerve etmesini sağlarken, yöneticilerin (Admin) ofis kaynaklarını yönetmesine olanak tanır.
 
