@@ -56,3 +56,6 @@ deskspot_api/
 ├── Dockerfile        # Docker imaj dosyası
 ├── requirements.txt  # Proje bağımlılıkları
 └── run.py            # Uygulamayı başlatan giriş noktası
+```
+
+## http://127.0.0.1:5000/apidocs/ adresinden uygulamaya ulaşabilirsiniz.
