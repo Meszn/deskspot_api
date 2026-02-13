@@ -50,3 +50,9 @@ erDiagram
         datetime end_time
     }
 ```
+## 4. İşlevsel Olmayan Gereksinimler (NFR)
+* **NFR-SEC-01:** Tüm veri trafiği HTTPS üzerinden şifrelenmelidir.
+
+* **NFR-PER-01:** API yanıt süresi 500ms altında olmalıdır.
+
+* **NFR-PORT-01:** Uygulama Docker konteyneri içinde çalışmalıdır.
